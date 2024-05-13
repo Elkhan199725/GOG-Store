@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\entities\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\entities\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\entities\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\entities\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\enums\\mediatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\enums\\mediatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\entities\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\entities\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\entities\\gameplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\entities\\gameplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\entities\\gamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\entities\\gamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\entities\\ibaseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\entities\\ibaseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E101A-A365-41D6-824D-F3C50DF5309E}|GOG.Domain\\GOG.Domain.csproj|solutionrelative:gog.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D07C22-F737-4CC8-B4C7-88DFB7A46707}|GOG.Infrastructure\\GOG.Infrastructure.csproj|c:\\users\\elkhan mammadli\\source\\repos\\gog.solution\\gog.infrastructure\\contexts\\gogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D07C22-F737-4CC8-B4C7-88DFB7A46707}|GOG.Infrastructure\\GOG.Infrastructure.csproj|solutionrelative:gog.infrastructure\\contexts\\gogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "GOG.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:39:54.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "GOG.Domain\\Entities\\Comment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:31:12.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MediaType.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Enums\\MediaType.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Enums\\MediaType.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Enums\\MediaType.cs",
+              "RelativeToolTip": "GOG.Domain\\Enums\\MediaType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:25:44.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Media.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Entities\\Media.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Media.cs",
+              "RelativeToolTip": "GOG.Domain\\Entities\\Media.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:25:06.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GamePlatform.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\GamePlatform.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Entities\\GamePlatform.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\GamePlatform.cs",
+              "RelativeToolTip": "GOG.Domain\\Entities\\GamePlatform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:18:31.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Platform.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Entities\\Platform.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Platform.cs",
+              "RelativeToolTip": "GOG.Domain\\Entities\\Platform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:16:34.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameGenre.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\GameGenre.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Entities\\GameGenre.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\GameGenre.cs",
+              "RelativeToolTip": "GOG.Domain\\Entities\\GameGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:50:36.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Genre.cs",
+              "RelativeToolTip": "GOG.Domain\\Entities\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:49:48.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GOGDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Infrastructure\\Contexts\\GOGDbContext.cs",
+              "RelativeDocumentMoniker": "GOG.Infrastructure\\Contexts\\GOGDbContext.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Infrastructure\\Contexts\\GOGDbContext.cs",
+              "RelativeToolTip": "GOG.Infrastructure\\Contexts\\GOGDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:27:57.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Developer.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Entities\\Developer.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Developer.cs",
+              "RelativeToolTip": "GOG.Domain\\Entities\\Developer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:23:02.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\Game.cs",
+              "RelativeToolTip": "GOG.Domain\\Entities\\Game.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:43:11.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBaseAuditable.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\IBaseAuditable.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Entities\\IBaseAuditable.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\IBaseAuditable.cs",
+              "RelativeToolTip": "GOG.Domain\\Entities\\IBaseAuditable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:27:40.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "GOG.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\GOG.Solution\\GOG.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "GOG.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:10:53.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

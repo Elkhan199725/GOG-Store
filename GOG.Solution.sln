@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B3724539-2547-4C37-8CE6-2705E5E9B21B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{A2D53658-5F40-4A9C-89ED-483C21F4EA5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOG.Domain", "GOG.Domain\GOG.Domain.csproj", "{F25E101A-A365-41D6-824D-F3C50DF5309E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOG.Application", "GOG.Application\GOG.Application.csproj", "{3D35D8C5-9665-4702-AAA2-CC7EB0105E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOG.Infrastructure", "GOG.Infrastructure\GOG.Infrastructure.csproj", "{C1D07C22-F737-4CC8-B4C7-88DFB7A46707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOG.API", "GOG.API\GOG.API.csproj", "{CCA741E3-A109-472A-A844-11FB05E0365F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOG.MVC", "GOG.MVC\GOG.MVC.csproj", "{437D48DD-E0F8-49D8-9321-9AD8157783DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F25E101A-A365-41D6-824D-F3C50DF5309E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25E101A-A365-41D6-824D-F3C50DF5309E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25E101A-A365-41D6-824D-F3C50DF5309E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25E101A-A365-41D6-824D-F3C50DF5309E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D35D8C5-9665-4702-AAA2-CC7EB0105E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D35D8C5-9665-4702-AAA2-CC7EB0105E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D35D8C5-9665-4702-AAA2-CC7EB0105E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D35D8C5-9665-4702-AAA2-CC7EB0105E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D07C22-F737-4CC8-B4C7-88DFB7A46707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D07C22-F737-4CC8-B4C7-88DFB7A46707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D07C22-F737-4CC8-B4C7-88DFB7A46707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D07C22-F737-4CC8-B4C7-88DFB7A46707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA741E3-A109-472A-A844-11FB05E0365F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA741E3-A109-472A-A844-11FB05E0365F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA741E3-A109-472A-A844-11FB05E0365F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA741E3-A109-472A-A844-11FB05E0365F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437D48DD-E0F8-49D8-9321-9AD8157783DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437D48DD-E0F8-49D8-9321-9AD8157783DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437D48DD-E0F8-49D8-9321-9AD8157783DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437D48DD-E0F8-49D8-9321-9AD8157783DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F25E101A-A365-41D6-824D-F3C50DF5309E} = {B3724539-2547-4C37-8CE6-2705E5E9B21B}
+		{3D35D8C5-9665-4702-AAA2-CC7EB0105E6F} = {B3724539-2547-4C37-8CE6-2705E5E9B21B}
+		{C1D07C22-F737-4CC8-B4C7-88DFB7A46707} = {B3724539-2547-4C37-8CE6-2705E5E9B21B}
+		{CCA741E3-A109-472A-A844-11FB05E0365F} = {B3724539-2547-4C37-8CE6-2705E5E9B21B}
+		{437D48DD-E0F8-49D8-9321-9AD8157783DB} = {B3724539-2547-4C37-8CE6-2705E5E9B21B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EDA832D-1F11-41A5-99DB-840662B719B2}
+	EndGlobalSection
+EndGlobal

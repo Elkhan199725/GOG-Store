@@ -1,0 +1,11 @@
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\bin\Debug\net8.0\GOG.Domain.deps.json
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\bin\Debug\net8.0\GOG.Domain.dll
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\bin\Debug\net8.0\GOG.Domain.pdb
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\GOG.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\GOG.Domain.AssemblyInfoInputs.cache
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\GOG.Domain.AssemblyInfo.cs
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\GOG.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\GOG.Domain.dll
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\refint\GOG.Domain.dll
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\GOG.Domain.pdb
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\ref\GOG.Domain.dll
