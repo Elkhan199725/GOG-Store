@@ -1,4 +1,5 @@
-﻿using GOG.Domain.Entities;
+﻿using GOG.Domain.Configurations;
+using GOG.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -14,8 +15,20 @@ public class GOGDbContext : DbContext
 
     public DbSet<Game> Games { get; set; }
     public DbSet<Developer> Developers { get; set;}
+    public DbSet<Comment> Comments { get; set; }
+    public DbSet<GameGenre> GameGenres { get; set; }
+    public DbSet<GamePlatform> GamePlatforms { get; set; }
+    public DbSet<Genre> Genres { get; set; }
+    public DbSet<Media> MediaItems { get; set; }
+    public DbSet<Platform> Platforms { get; set; }
+    public DbSet<User> Users { get; set; }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
+
+        modelBuilder.ApplyConfiguration(new GameConfiguration());
+        modelBuilder.ApplyConfiguration(new GameGenreConfiguration());
+        modelBuilder.ApplyConfiguration(new DeveloperConfiguration());
+        modelBuilder.ApplyConfiguration(new CommentConfiguration());
     }
 }

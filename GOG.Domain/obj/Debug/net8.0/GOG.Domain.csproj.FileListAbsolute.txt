@@ -9,3 +9,5 @@ C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\G
 C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\refint\GOG.Domain.dll
 C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\GOG.Domain.pdb
 C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\ref\GOG.Domain.dll
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\GOG.Domain.sourcelink.json
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Domain\obj\Debug\net8.0\GOG.Domain.csproj.AssemblyReference.cache

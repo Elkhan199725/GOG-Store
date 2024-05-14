@@ -9,10 +9,9 @@ namespace GOG.Domain.Entities;
 public class Developer : BaseEntity
 {
     public string Name { get; set; } = string.Empty;
-    public string Location { get; set; }
-    // You can add additional fields as needed, such as:
+    public string Location { get; set; } = string.Empty;  
     public string Website { get; set; } = string.Empty;
     public string ContactEmail { get; set; } = string.Empty;
-    public List<Game>? Games { get; set; } = new List<Game>(); // Navigation property for related games
+    public List<Game>? Games { get; set; } = new List<Game>();
 }
 

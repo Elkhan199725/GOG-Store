@@ -1,0 +1,16 @@
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\bin\Debug\net8.0\GOG.Infrastructure.deps.json
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\bin\Debug\net8.0\GOG.Infrastructure.dll
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\bin\Debug\net8.0\GOG.Infrastructure.pdb
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\bin\Debug\net8.0\GOG.Domain.dll
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\bin\Debug\net8.0\GOG.Domain.pdb
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\obj\Debug\net8.0\GOG.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\obj\Debug\net8.0\GOG.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\obj\Debug\net8.0\GOG.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\obj\Debug\net8.0\GOG.Infrastructure.AssemblyInfo.cs
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\obj\Debug\net8.0\GOG.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\obj\Debug\net8.0\GOG.Infrastructure.sourcelink.json
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\obj\Debug\net8.0\GOG.Infr.EE7EB324.Up2Date
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\obj\Debug\net8.0\GOG.Infrastructure.dll
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\obj\Debug\net8.0\refint\GOG.Infrastructure.dll
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\obj\Debug\net8.0\GOG.Infrastructure.pdb
+C:\Users\Elkhan Mammadli\source\repos\GOG.Solution\GOG.Infrastructure\obj\Debug\net8.0\ref\GOG.Infrastructure.dll

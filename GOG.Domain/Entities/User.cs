@@ -13,7 +13,6 @@ public class User : BaseEntity
     public string PasswordHash { get; set; } = string.Empty; // Store hashed passwords only for security
     public string ProfilePictureUrl { get; set; } = string.Empty;
 
-    // Navigation properties
     public List<Comment>? Comments { get; set; } = new List<Comment>();
 
 }
