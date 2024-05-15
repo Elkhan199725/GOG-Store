@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GOG.Domain.Entities;
+namespace GOG.Domain.Entities.Common;
 
 public interface IBaseAuditable
 {

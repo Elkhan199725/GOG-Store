@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 
 namespace GOG.Domain.Configurations;
 
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using GOG.Domain.Entities;
+
 public class CommentConfiguration : IEntityTypeConfiguration<Comment>
 {
     public void Configure(EntityTypeBuilder<Comment> builder)
@@ -44,6 +48,7 @@ public class CommentConfiguration : IEntityTypeConfiguration<Comment>
                .OnDelete(DeleteBehavior.Restrict); // Prevent cascade delete of replies when a parent comment is deleted
 
         // Indexes
-        builder.HasIndex(c => c.PostedDate); // Index on PostedDate for faster querying by date
+        builder.HasIndex(c => c.PostedDate);
     }
 }
+

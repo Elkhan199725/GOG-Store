@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GOG.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+843ee675308e1e701a89ae764ad6058b5fb37443")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84e7d1969b041453c3bd558de8c3f34794d314ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("GOG.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GOG.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GOG.Domain.Entities;
+namespace GOG.Domain.Entities.Common;
 
 public class BaseEntity
 {
-    public Guid Id { get; set; }
+    public int Id { get; set; }
     public bool IsActive { get; set; } = true;
 }

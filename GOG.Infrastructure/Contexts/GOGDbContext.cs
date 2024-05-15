@@ -28,7 +28,18 @@ public class GOGDbContext : DbContext
 
         modelBuilder.ApplyConfiguration(new GameConfiguration());
         modelBuilder.ApplyConfiguration(new GameGenreConfiguration());
+        modelBuilder.ApplyConfiguration(new GenreConfiguration());
+        modelBuilder.ApplyConfiguration(new GamePlatformConfiguration());
         modelBuilder.ApplyConfiguration(new DeveloperConfiguration());
         modelBuilder.ApplyConfiguration(new CommentConfiguration());
+        modelBuilder.ApplyConfiguration(new UserConfiguration());
+        modelBuilder.ApplyConfiguration(new PlatformConfiguration());
+        modelBuilder.ApplyConfiguration(new MediaConfiguration());
+        modelBuilder.ApplyConfiguration(new GameRequirementConfiguration());
+        modelBuilder.ApplyConfiguration(new NewsArticleConfiguration());
+        modelBuilder.ApplyConfiguration(new NewsCategoryConfiguration());
+        modelBuilder.ApplyConfiguration(new NewsTagConfiguration());
+        modelBuilder.ApplyConfiguration(new NewsArticleCategoryConfiguration());
+        modelBuilder.ApplyConfiguration(new NewsArticleTagConfiguration());
     }
 }

@@ -9,6 +9,6 @@ namespace GOG.Domain.Enums;
 public enum MediaType
 {
     Image, // General image, could be part of a gallery
-    Video  // Video content, like trailers
+    Video,  // Video content, like trailers
 }
 

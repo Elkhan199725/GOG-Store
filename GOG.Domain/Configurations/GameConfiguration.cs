@@ -47,8 +47,9 @@ public class GameConfiguration : IEntityTypeConfiguration<Game>
                .HasForeignKey(gp => gp.GameId);
 
         builder.HasMany(g => g.MediaItems)
-               .WithOne(m => m.Game)
-               .HasForeignKey(m => m.GameId);
+               .WithOne()
+               .HasForeignKey(m => m.MediaOwnerId)
+               .OnDelete(DeleteBehavior.Cascade);
 
         builder.HasMany(g => g.Comments)
                .WithOne(c => c.Game)
